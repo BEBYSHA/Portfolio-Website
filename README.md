@@ -12,6 +12,7 @@ A modern, responsive portfolio website showcasing my projects, skills, and exper
 ⦁	Dynamic Footer - Auto-updating copyright year with styled links
 
 # Project Structure
+```bash
 portfolio-website/
 ├── assets/
 │   ├── css/
@@ -23,6 +24,7 @@ portfolio-website/
 ├── README.md                   # Project documentation
 ├── LICENSE                     # MIT License
 └── .gitignore                 # Git ignore file
+```
 
 # Technologies Used
 ⦁	HTML - Semantic markup
@@ -32,3 +34,4 @@ portfolio-website/
 ⦁	Git - Version control
 
 # License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
